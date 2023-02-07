@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import com.example.bin.R
 import com.example.bin.databinding.FragmentMainBinding
 
-
 class MainFragment : Fragment() {
     private lateinit var binding: FragmentMainBinding
 

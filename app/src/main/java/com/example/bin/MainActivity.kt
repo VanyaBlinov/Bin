@@ -14,6 +14,3 @@ class MainActivity : AppCompatActivity() {
             .commit()
     }
 }
-
-
-//45717360
